@@ -1,0 +1,6 @@
+{
+  "name": "DeFi Lending Protocol",
+  "description": "GenLend Protocol application that evaluates text-based loan proposals to filter out spam and malicious intent using decentralized consensus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
